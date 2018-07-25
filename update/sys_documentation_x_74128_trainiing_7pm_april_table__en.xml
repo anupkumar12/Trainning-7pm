@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Trainiing_7pm_april Table" language="en" table="x_74128_trainiing_7pm_april_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Trainiing_7pm_april Table</label>
+            <language>en</language>
+            <name>x_74128_trainiing_7pm_april_table</name>
+            <plural>Trainiing_7pm_april Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 13:50:48</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d345fa85dbafdf00a49f7d9ebf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Trainiing_7pm_april Table</sys_name>
+            <sys_package display_value="Trainiing_7pm_april" source="x_74128_trainiing">a6453a89db6fdf00a49f7d9ebf9619f5</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Trainiing_7pm_april">a6453a89db6fdf00a49f7d9ebf9619f5</sys_scope>
+            <sys_update_name>sys_documentation_x_74128_trainiing_7pm_april_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 13:50:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

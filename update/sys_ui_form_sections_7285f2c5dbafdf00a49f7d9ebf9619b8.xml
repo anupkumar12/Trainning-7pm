@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="7285f2c5dbafdf00a49f7d9ebf9619b8" sys_domain="global" table="x_74128_trainiing_7pm_april_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 13:51:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f285f2c5dbafdf00a49f7d9ebf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_74128_trainiing_7pm_april_table" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">7285f2c5dbafdf00a49f7d9ebf9619b8</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">be85f2c5dbafdf00a49f7d9ebf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 13:51:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 13:51:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a85f2c5dbafdf00a49f7d9ebf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_74128_trainiing_7pm_april_table" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">7285f2c5dbafdf00a49f7d9ebf9619b8</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">3685f2c5dbafdf00a49f7d9ebf9619c7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 13:51:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 13:51:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3285f2c5dbafdf00a49f7d9ebf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_74128_trainiing_7pm_april_table" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">7285f2c5dbafdf00a49f7d9ebf9619b8</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">f685f2c5dbafdf00a49f7d9ebf9619c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 13:51:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 13:51:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa85f2c5dbafdf00a49f7d9ebf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_74128_trainiing_7pm_april_table" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">7285f2c5dbafdf00a49f7d9ebf9619b8</sys_ui_form>
+            <sys_ui_section caption="Conflicts" display_value="Conflicts" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">fa85f2c5dbafdf00a49f7d9ebf9619bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 13:51:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 13:51:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba85f2c5dbafdf00a49f7d9ebf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_74128_trainiing_7pm_april_table" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">7285f2c5dbafdf00a49f7d9ebf9619b8</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">fe85f2c5dbafdf00a49f7d9ebf9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 13:51:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 13:51:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f685f2c5dbafdf00a49f7d9ebf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_74128_trainiing_7pm_april_table" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">7285f2c5dbafdf00a49f7d9ebf9619b8</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="Default view">f685f2c5dbafdf00a49f7d9ebf9619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 13:51:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_74128_trainiing_7pm_april_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-25 13:51:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7285f2c5dbafdf00a49f7d9ebf9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_74128_trainiing_7pm_april_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Trainiing_7pm_april" source="x_74128_trainiing">a6453a89db6fdf00a49f7d9ebf9619f5</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Trainiing_7pm_april">a6453a89db6fdf00a49f7d9ebf9619f5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7285f2c5dbafdf00a49f7d9ebf9619b8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-25 13:51:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

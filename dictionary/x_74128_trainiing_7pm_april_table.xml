@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="change_request" label="Trainiing_7pm_april Table" max_length="40" name="x_74128_trainiing_7pm_april_table" type="collection"/>
+</database>
