@@ -9,7 +9,7 @@
             <sys_id>fe85f2c5dbafdf00a49f7d9ebf96199d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="a6e84986db312200a49f3d9ebf961970">3685f2c5dbafdf00a49f7d9ebf96199d</sys_ui_section>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="f09388894f2313000a17121f9310c762">3685f2c5dbafdf00a49f7d9ebf96199d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-25 13:51:51</sys_updated_on>
             <sys_user/>
@@ -23,7 +23,7 @@
             <sys_id>7285f2c5dbafdf00a49f7d9ebf96199e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="a6e84986db312200a49f3d9ebf961970">3685f2c5dbafdf00a49f7d9ebf96199d</sys_ui_section>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="f09388894f2313000a17121f9310c762">3685f2c5dbafdf00a49f7d9ebf96199d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-25 13:51:51</sys_updated_on>
             <sys_user/>
@@ -37,7 +37,7 @@
             <sys_id>f285f2c5dbafdf00a49f7d9ebf96199e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="a6e84986db312200a49f3d9ebf961970">3685f2c5dbafdf00a49f7d9ebf96199d</sys_ui_section>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="f09388894f2313000a17121f9310c762">3685f2c5dbafdf00a49f7d9ebf96199d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-25 13:51:51</sys_updated_on>
             <sys_user/>
@@ -51,7 +51,7 @@
             <sys_id>7685f2c5dbafdf00a49f7d9ebf96199e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="a6e84986db312200a49f3d9ebf961970">3685f2c5dbafdf00a49f7d9ebf96199d</sys_ui_section>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_74128_trainiing_7pm_april_table" sys_domain="global" view="f09388894f2313000a17121f9310c762">3685f2c5dbafdf00a49f7d9ebf96199d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-25 13:51:51</sys_updated_on>
             <sys_user/>
@@ -65,7 +65,6 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-07-25 13:51:51</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3685f2c5dbafdf00a49f7d9ebf96199d</sys_id>
@@ -74,14 +73,13 @@
             <sys_overrides/>
             <sys_package display_value="Trainiing_7pm_april" source="x_74128_trainiing">a6453a89db6fdf00a49f7d9ebf9619f5</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Trainiing_7pm_april">a6453a89db6fdf00a49f7d9ebf9619f5</sys_scope>
             <sys_update_name>sys_ui_section_3685f2c5dbafdf00a49f7d9ebf96199d</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-25 13:51:51</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Emergency" name="Emergency">a6e84986db312200a49f3d9ebf961970</view>
+            <view display_value="Emergency" name="Emergency">f09388894f2313000a17121f9310c762</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>
